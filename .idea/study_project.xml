@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="StudySettings">
+    <StudyTaskManager>
+      <option name="VERSION" value="16" />
+      <option name="myUserTests">
+        <map />
+      </option>
+      <option name="course">
+        <HyperskillCourse>
+          <option name="authors">
+            <list />
+          </option>
+          <option name="courseMode" value="Study" />
+          <option name="customPresentableName" />
+          <option name="description" value="When you travel, everything changes: people, languages, time zones and even units. It may be difficult to get used to Fahrenheit when you use Celsius, or measure yourself in kilos if you only used pounds before. Not an easy matter, but a nice unit converter might help! In this project, you will write a converter that handles distance, weight and temperature units: all the traveller’s essentials.&lt;br/&gt;&lt;br/&gt;Learn more at &lt;a href=&quot;https://hyperskill.org&quot;&gt;https://hyperskill.org/projects/70&lt;/a&gt;" />
+          <option name="environment" value="" />
+          <option name="id" value="0" />
+          <option name="index" value="-1" />
+          <option name="language" value="kotlin" />
+          <option name="languageCode" value="en" />
+          <option name="name" value="Unit Converter" />
+          <option name="stages">
+            <list>
+              <HyperskillStage>
+                <option name="id" value="385" />
+                <option name="stepId" value="6090" />
+                <option name="title" value="Standard output" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="386" />
+                <option name="stepId" value="6091" />
+                <option name="title" value="Let’s get metric" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="387" />
+                <option name="stepId" value="6092" />
+                <option name="title" value="Distances" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="388" />
+                <option name="stepId" value="6093" />
+                <option name="title" value="Heavy duty" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="389" />
+                <option name="stepId" value="6094" />
+                <option name="title" value="Is it getting hot here?" />
+              </HyperskillStage>
+            </list>
+          </option>
+          <option name="taskToTopics">
+            <map>
+              <entry key="0">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="211" />
+                      <option name="theoryId" value="4350" />
+                      <option name="title" value="Introduction to Kotlin" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="210" />
+                      <option name="theoryId" value="4351" />
+                      <option name="title" value="Basic literals" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="212" />
+                      <option name="theoryId" value="4362" />
+                      <option name="title" value="The first program" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="219" />
+                      <option name="theoryId" value="4425" />
+                      <option name="title" value="Standard output" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="259" />
+                      <option name="theoryId" value="3805" />
+                      <option name="title" value="IDE" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="260" />
+                      <option name="theoryId" value="3801" />
+                      <option name="title" value="IntelliJ IDEA" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="1">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="213" />
+                      <option name="theoryId" value="4371" />
+                      <option name="title" value="Values and variables" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="214" />
+                      <option name="theoryId" value="4388" />
+                      <option name="title" value="Data types" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="221" />
+                      <option name="theoryId" value="4472" />
+                      <option name="title" value="Arithmetic operations" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="226" />
+                      <option name="theoryId" value="4540" />
+                      <option name="title" value="Strings" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="230" />
+                      <option name="theoryId" value="4575" />
+                      <option name="title" value="Invoking functions" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="218" />
+                      <option name="theoryId" value="4445" />
+                      <option name="title" value="Standard input" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="227" />
+                      <option name="theoryId" value="4547" />
+                      <option name="title" value="String templates" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="222" />
+                      <option name="theoryId" value="4488" />
+                      <option name="title" value="Integers in action" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="2">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="117" />
+                      <option name="theoryId" value="3614" />
+                      <option name="title" value="Introduction to OOP" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="216" />
+                      <option name="theoryId" value="4419" />
+                      <option name="title" value="Coding style conventions" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="215" />
+                      <option name="theoryId" value="4389" />
+                      <option name="title" value="Naming variables" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="224" />
+                      <option name="theoryId" value="4515" />
+                      <option name="title" value="Boolean and logical operations" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="225" />
+                      <option name="theoryId" value="4525" />
+                      <option name="title" value="Relational operators" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="231" />
+                      <option name="theoryId" value="4580" />
+                      <option name="title" value="Declaring functions" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="234" />
+                      <option name="theoryId" value="4633" />
+                      <option name="title" value="Ranges" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="496" />
+                      <option name="theoryId" value="6773" />
+                      <option name="title" value="Objects" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="232" />
+                      <option name="theoryId" value="4625" />
+                      <option name="title" value="If expression" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="233" />
+                      <option name="theoryId" value="4631" />
+                      <option name="title" value="When expression" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="439" />
+                      <option name="theoryId" value="6200" />
+                      <option name="title" value="Declaring classes" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="442" />
+                      <option name="theoryId" value="6237" />
+                      <option name="title" value="Constructors" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="443" />
+                      <option name="theoryId" value="6245" />
+                      <option name="title" value="Enum" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="3">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="239" />
+                      <option name="theoryId" value="4643" />
+                      <option name="title" value="Repeating blocks" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="240" />
+                      <option name="theoryId" value="4659" />
+                      <option name="title" value="While loops" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="updateDate" value="0" />
+          <option name="hyperskillProject">
+            <HyperskillProject>
+              <option name="description" value="When you travel, everything changes: people, languages, time zones and even units. It may be difficult to get used to Fahrenheit when you use Celsius, or measure yourself in kilos if you only used pounds before. Not an easy matter, but a nice unit converter might help! In this project, you will write a converter that handles distance, weight and temperature units: all the traveller’s essentials." />
+              <option name="id" value="70" />
+              <option name="ideFiles" value="https://stepik.org/media/attachments/lesson/225500/additional_files.json" />
+              <option name="language" value="kotlin" />
+              <option name="templateBased" value="false" />
+              <option name="title" value="Unit Converter" />
+              <option name="useIde" value="true" />
+            </HyperskillProject>
+          </option>
+          <option name="items">
+            <list>
+              <FrameworkLesson>
+                <option name="currentTaskIndex" value="4" />
+                <option name="customPresentableName" />
+                <option name="id" value="0" />
+                <option name="index" value="1" />
+                <option name="name" value="Unit Converter" />
+                <option name="updateDate" value="0" />
+                <option name="unitId" value="0" />
+                <option name="items">
+                  <list>
+                    <EduTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2 style=&quot;text-align: center;&quot;&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;By the end of this project, you will have created a program that can convert any unit to any other unit. Naturally, of course, the units must be measuring the same thing: for example, you cannot convert meters to kilograms.&lt;/p&gt;&#10;&#10;&lt;p&gt;In this stage, you will write a program that converts some predefined values and predefined units.&lt;/p&gt;&#10;&#10;&lt;h2 style=&quot;text-align: center;&quot;&gt;Output example&lt;/h2&gt;&#10;&#10;&lt;p&gt;The output of your program should be exactly like in the example below.&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;145 centimeters is 1.45 meters&#10;2 miles is 3.2187 kilometers&#10;5.5 inches is 139.7 millimeters&#10;12 degrees Celsius is 53.6 degrees Fahrenheit&#10;3 pounds is 1.360776 kilograms&lt;/code&gt;&lt;/pre&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/70/stages/385/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="6090" />
+                      <option name="index" value="1" />
+                      <option name="name" value="Standard output" />
+                      <option name="record" value="1" />
+                      <option name="status" value="Unchecked" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/ConverterTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/ConverterTest.java" />
+                                <option name="text" value="import converter.MainKt;&#10;import org.hyperskill.hstest.v5.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v5.testcase.CheckResult;&#10;import org.hyperskill.hstest.v5.testcase.TestCase;&#10;&#10;import java.util.ArrayList;&#10;import java.util.List;&#10;&#10;&#10;public class ConverterTest extends BaseStageTest {&#10;    public ConverterTest() {&#10;        super(MainKt.class);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;TestCase&gt; generate() {&#10;        List&lt;TestCase&gt; tests = new ArrayList&lt;&gt;();&#10;        tests.add(new TestCase());&#10;        return tests;&#10;    }&#10;&#10;    @Override&#10;    public CheckResult check(String reply, Object clue) {&#10;        if (!reply.trim().equals(&#10;            &quot;145 centimeters is 1.45 meters\n&quot; +&#10;            &quot;2 miles is 3.2187 kilometers\n&quot; +&#10;            &quot;5.5 inches is 139.7 millimeters\n&quot; +&#10;            &quot;12 degrees Celsius is 53.6 degrees Fahrenheit\n&quot; +&#10;            &quot;3 pounds is 1.360776 kilograms&quot;)) {&#10;&#10;            return CheckResult.FALSE(&#10;                &quot;You should print lines exactly like in the example&quot;&#10;            );&#10;        }&#10;        return CheckResult.TRUE;&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/converter/Main.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/converter/Main.kt" />
+                                <option name="text" value="package converter&#10;&#10;fun main() {&#10;    println(&quot;Hello, World!&quot;)&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1562027854000" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2 style=&quot;text-align: center;&quot;&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;In this stage, you will create a program that can convert kilometers to meters. The user should input a number of kilometers, then the program should output a number of meters equal to the number of kilometers that the user inputs into the program.&lt;/p&gt;&#10;&#10;&lt;p&gt;Note that one kilometer is always 1000 times longer than one meter.&lt;/p&gt;&#10;&#10;&lt;p&gt;The program should ask the user about kilometers only once, not infinitely.&lt;/p&gt;&#10;&#10;&lt;h2 style=&quot;text-align: center;&quot;&gt;Output examples&lt;/h2&gt;&#10;&#10;&lt;p&gt;The examples are shown below:&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Enter a number of kilometers: 25&#10;25 kilometers is 25000 meters&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Enter a number of kilometers: 12&#10;12 kilometers is 12000 meters&lt;/code&gt;&lt;/pre&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/70/stages/386/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="6091" />
+                      <option name="index" value="2" />
+                      <option name="name" value="Let’s get metric" />
+                      <option name="record" value="2" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/Authors.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/Authors.kt" />
+                                <option name="text" value="import java.io.*&#10;import java.util.*&#10;&#10;&#10;object Authors {&#10;    fun solve(sin: Scanner, sout: PrintStream) {&#10;&#10;        sout.print(&quot;Enter a number of kilometers: &quot;)&#10;&#10;        val x = sin.nextInt()&#10;&#10;        sout.println(&quot;$x kilometers is ${x * 1000} meters&quot;)&#10;    }&#10;&#10;    @JvmStatic&#10;    fun main(args: Array&lt;String&gt;) {&#10;        solve(Scanner(System.`in`), System.out)&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/ConverterTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/ConverterTest.java" />
+                                <option name="text" value="import converter.MainKt;&#10;import org.hyperskill.hstest.v5.stage.BaseStageTest;&#10;&#10;&#10;abstract public class ConverterTest&lt;T&gt; extends BaseStageTest&lt;T&gt; {&#10;    public ConverterTest() {&#10;        super(MainKt.class);&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/TestCaseHelpers.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/TestCaseHelpers.kt" />
+                                <option name="text" value="import org.hyperskill.hstest.v5.testcase.CheckResult&#10;import org.hyperskill.hstest.v5.testcase.TestCase&#10;import java.io.ByteArrayOutputStream&#10;import java.io.PrintStream&#10;import java.util.*&#10;&#10;/** Output based clue. */&#10;data class OutputClue(&#10;        val output: String,&#10;        /** Do not show correct output and input. */&#10;        var isPrivate: Boolean = false,&#10;        /** Optionally you can add the console input. */&#10;        val input: String? = null&#10;)&#10;&#10;/** Default testCase. */&#10;fun &lt;T&gt; testCase(attach: T, input: String) = TestCase&lt;T&gt;().apply {&#10;    setInput(input)&#10;    setAttach(attach)&#10;}&#10;&#10;/** [OutputClue] based testCase. Doesn't mean that lines will be compared by letters!!!*/&#10;fun outputCase(input: String, output: String, isPrivate: Boolean = false) =&#10;        testCase(OutputClue(output, isPrivate, input), input)&#10;&#10;&#10;/** TestCase, based on authors solution output. */&#10;fun authorsCaseFromFun(&#10;        mainMethod: (Scanner, PrintStream) -&gt; Unit,&#10;        input: String,&#10;        isPrivate: Boolean = false&#10;): TestCase&lt;OutputClue&gt; {&#10;&#10;    val authorsBytes = ByteArrayOutputStream()&#10;    mainMethod(Scanner(input), PrintStream(authorsBytes, true))&#10;    val authors = authorsBytes.toString()&#10;&#10;    return testCase(OutputClue(authors, isPrivate, input), input)&#10;}&#10;&#10;fun TestCase&lt;OutputClue&gt;.private() = this.apply { attach.isPrivate = true }&#10;&#10;/** Hide error description in private test. */&#10;fun CheckResult.ciphered() =&#10;        if (!isCorrect)&#10;            CheckResult(false)&#10;        else CheckResult(true, feedback)&#10;&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/WordComparer.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/WordComparer.kt" />
+                                <option name="text" value="import org.hyperskill.hstest.v5.testcase.CheckResult&#10;import java.util.*&#10;import kotlin.math.max&#10;import kotlin.math.min&#10;&#10;class InputToken(&#10;        val content: Any,&#10;        /** Position in range.*/&#10;        val range: IntRange&#10;) {&#10;    override fun equals(other: Any?): Boolean {&#10;        if (this === other) return true&#10;        if (javaClass != other?.javaClass) return false&#10;&#10;        other as InputToken&#10;&#10;        if (content != other.content) return false&#10;&#10;        return true&#10;    }&#10;&#10;    override fun hashCode(): Int {&#10;        return content.hashCode()&#10;    }&#10;&#10;    override fun toString() =&#10;            if (content::class.simpleName == &quot;String&quot;) &quot;$content&quot;&#10;            else &quot;$content(${content::class.simpleName})&quot;&#10;}&#10;&#10;/**Compares two output strings by words (splitted by spaces, commas etc).&#10; * Numbers in different formats are parsed equally.&#10; * Doubles are compared with [roundDoubleTo] precision.&#10; * All integer numbers should fit to long or they will be compared as strings.&#10; *&#10; * Run [compare] function to compare.&#10; * @param myStr authors output string.&#10; * @param hisStr  students output string.&#10; * @param roundDoubleTo number of digits after the dot to compare doubles.&#10; * @param integersAsDoubles Doubles such as 1.0 are now equal to integers.&#10; * @param trimErrorOnlyByLine if true, ignore [errorContextStd] and trim the error by \n&#10; * @param errorContextStd number of words in [myStr] and [hisStr] before and after the error word.&#10; * @param moreIgnoredSymbolsRegex add some symbols in regex notation to ignore. For example: &quot;\.,&quot; - will ignore dot or comma. */&#10;class WordComparer(&#10;        val myStr: String,&#10;        val hisStr: String,&#10;        val roundDoubleTo: Int = 7,&#10;        val integersAsDoubles: Boolean = false,&#10;        val trimErrorOnlyByLine: Boolean = true,&#10;        val errorContextStd: Int = 1,&#10;        val moreIgnoredSymbolsRegex: String = &quot;&quot;&#10;) {&#10;    /** Parse either double, long, word. */&#10;&#10;    private val wordRegex = Regex(&quot;&quot;&quot;([+-]?\d+\.\d+([eE][+-]\d+)?)|([+-]?\d+)|([^\s\d $moreIgnoredSymbolsRegex]+)&quot;&quot;&quot;)&#10;&#10;    private fun tokenizeWordsRegex(str: String): List&lt;InputToken&gt; {&#10;        return wordRegex.findAll(str)&#10;                .map { match -&gt;&#10;                    val (_, double, _, long, word) = match.groups.map { it?.value }&#10;&#10;                    val content: Any = when {&#10;                        long?.toLongOrNull() != null -&gt;&#10;                            if (integersAsDoubles) long.toDouble() else long.toLong()&#10;&#10;                        double?.toDoubleOrNull() != null -&gt; {&#10;                            // Locale.US puts a dot separator&#10;                            &quot;%.${roundDoubleTo}f&quot;.format(Locale.US, double.toDouble()).toDouble()&#10;                        }&#10;&#10;                        else -&gt; match.value&#10;                    }&#10;                    InputToken(content, match.range)&#10;                }.toList()&#10;    }&#10;&#10;&#10;    fun compare(): CheckResult {&#10;        // I am author&#10;        val myTokens = tokenizeWordsRegex(myStr)&#10;        val hisTokens = tokenizeWordsRegex(hisStr)&#10;//        println(&quot;authorString: $myStr&quot;)&#10;//        println(&quot;authorTokens: $myTokens&quot;)&#10;//        println(&quot;studentTokens: $hisTokens&quot;)&#10;&#10;        val badTokenIdx = myTokens.zip(hisTokens).indexOfFirst { (my, his) -&gt; my != his }&#10;&#10;        if (badTokenIdx != -1) {&#10;            fun substr(tokens: List&lt;InputToken&gt;, input: String): String {&#10;                if (trimErrorOnlyByLine) {&#10;                    // trim by \n&#10;                    val badToken = tokens[badTokenIdx]&#10;                    val start = input.take(badToken.range.start).lastIndexOf('\n').let { if (it == -1) 0 else it + 1 }&#10;                    val end = input.indexOf('\n', badToken.range.endInclusive).let { if (it == -1) input.length else it }&#10;                    return input.substring(start, end).trimEnd('\r')&#10;                }&#10;                // trim by nearest tokens&#10;                val std = errorContextStd&#10;                val subTokens = tokens.subList(max(badTokenIdx - std, 0), min(badTokenIdx + std + 1, tokens.size))&#10;                val strStart = subTokens.first().range.start&#10;                val strEnd = subTokens.last().range.endInclusive + 1&#10;                return input.substring(strStart, strEnd)&#10;            }&#10;&#10;            val myContext = substr(myTokens, myStr)&#10;            val hisContext = substr(hisTokens, hisStr)&#10;            if (trimErrorOnlyByLine) {&#10;                val hisBadToken = hisTokens[badTokenIdx]&#10;                val myBadToken = myTokens[badTokenIdx]&#10;                return CheckResult(false, &quot;Your line \&quot;$hisContext\&quot;\n&quot; +&#10;                        &quot;doesn't match with \&quot;$myContext\&quot;\n&quot; +&#10;                        &quot;in parts \&quot;${hisBadToken.content}\&quot; and \&quot;${myBadToken.content}\&quot;.&quot;)&#10;            }&#10;            return CheckResult(false, &quot;Your output ...$hisContext... doesn't match with ...$myContext...&quot;)&#10;        }&#10;        return CheckResult.TRUE&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/Task2Test.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/Task2Test.kt" />
+                                <option name="text" value="import org.hyperskill.hstest.v5.testcase.CheckResult&#10;&#10;&#10;/** TestCase, based on authors solution output. */&#10;fun authorsCase(input: String, isPrivate: Boolean = false) =&#10;        authorsCaseFromFun(Authors::solve, input, isPrivate)&#10;&#10;class Task2Test : ConverterTest&lt;OutputClue&gt;() {&#10;&#10;    override fun generate() = listOf(&#10;            authorsCase(&quot;25&quot;),&#10;            authorsCase(&quot;26&quot;, isPrivate = true),&#10;            authorsCase(&quot;13&quot;, isPrivate = true)&#10;    )&#10;&#10;    override fun check(reply: String, clue: OutputClue): CheckResult {&#10;        // compare output the clue output and reply with our custom comparer.&#10;        val checkResult = WordComparer(clue.output, reply).compare()&#10;&#10;        if (clue.isPrivate)&#10;            return checkResult.ciphered()&#10;        return checkResult&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/converter/Main.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/converter/Main.kt" />
+                                <option name="text" value="package converter&#10;&#10;fun main() {&#10;    println(&quot;Hello, World!&quot;)&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1562027854000" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2 style=&quot;text-align: center;&quot;&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;In this stage, you will write a program that can convert a value with any measure of length from the list below, using the metric system.&lt;/p&gt;&#10;&#10;&lt;p&gt;The conversion should follow these rules:&lt;/p&gt;&#10;&#10;&lt;ol&gt;&#10;  &lt;li&gt;One meter should, of course, consist of 1 meter.&lt;/li&gt;&#10;  &lt;li&gt;One kilometer should consist of 1000 meters.&lt;/li&gt;&#10;  &lt;li&gt;One centimeter should consist of 0.01 meters.&lt;/li&gt;&#10;  &lt;li&gt;One millimeter should consist of 0.001 meters.&lt;/li&gt;&#10;  &lt;li&gt;One mile should consist of 1609.35 meters.&lt;/li&gt;&#10;  &lt;li&gt;One yard should consist of 0.9144 meters.&lt;/li&gt;&#10;  &lt;li&gt;One foot should consist of 0.3048 meters.&lt;/li&gt;&#10;  &lt;li&gt;One inch should consist of 0.0254 meters.&lt;/li&gt;&#10;&lt;/ol&gt;&#10;&#10;&lt;p&gt;The user should input a number and a type of measurement. These types of measurements should be allowed:&lt;/p&gt;&#10;&#10;&lt;ol&gt;&#10;  &lt;li&gt;For meters, the user can input &quot;m&quot;, &quot;meter&quot;, or &quot;meters&quot;.&lt;/li&gt;&#10;  &lt;li&gt;For kilometers, the user can input &quot;km&quot;, &quot;kilometer&quot;, or &quot;kilometers&quot;.&lt;/li&gt;&#10;  &lt;li&gt;For centimeters, the user can input &quot;cm&quot;, &quot;centimeter&quot;, or &quot;centimeters&quot;.&lt;/li&gt;&#10;  &lt;li&gt;For millimeters, the user can input &quot;mm&quot;, &quot;millimeter&quot;, or &quot;millimeters&quot;.&lt;/li&gt;&#10;  &lt;li&gt;For miles, the user can input &quot;mi&quot;, &quot;mile&quot;, or &quot;miles&quot;.&lt;/li&gt;&#10;  &lt;li&gt;For yards, the user can input &quot;yd&quot;, &quot;yard&quot;, or &quot;yards&quot;.&lt;/li&gt;&#10;  &lt;li&gt;For feet, the user can input &quot;ft&quot;, &quot;foot&quot;, or &quot;feet&quot;.&lt;/li&gt;&#10;  &lt;li&gt;For inches, the user can input &quot;in&quot;, &quot;inch&quot;, or &quot;inches&quot;.&lt;/li&gt;&#10;&lt;/ol&gt;&#10;&#10;&lt;p&gt;Also, the types of measurement should be case insensitive. That means that &quot;Meters&quot;, &quot;METERS&quot;, and &quot;mEtErS&quot; should work correctly as well as &quot;meters&quot;.&lt;/p&gt;&#10;&#10;&lt;p&gt;The output should contain full names of measurement types. Also, if the value is 1.0, the name of the measurement type must be singular. For example, &quot;1.0 meter&quot; but &quot;1.1 meters&quot;.&lt;/p&gt;&#10;&#10;&lt;h2 style=&quot;text-align: center;&quot;&gt;Output examples  &lt;/h2&gt;&#10;&#10;&lt;p&gt;The examples are shown below:&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Enter a number and a measure of length: 1 m&#10;1.0 meter is 1.0 meter&#10;&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Enter a number and a measure of length: 2 km&#10;2.0 kilometers is 2000.0 meters&#10;&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Enter a number and a measure of length: 234 centimeters&#10;234.0 centimeters is 2.34 meters&#10;&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Enter a number and a measure of length: 1000 millimeters&#10;1000.0 millimeters is 1.0 meter&#10;&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Enter a number and a measure of length: 1 miles&#10;1.0 mile is 1609.35 meters&#10;&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Enter a number and a measure of length: 123.456 YARDS&#10;123.456 yards is 112.8881664 meters&#10;&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Enter a number and a measure of length: 12.9 feet&#10;12.9 feet is 3.9319200000000003 meters&#10;&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Enter a number and a measure of length: 2.1 IN&#10;2.1 inches is 0.05334 meters&#10;&lt;/code&gt;&lt;/pre&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/70/stages/387/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="6092" />
+                      <option name="index" value="3" />
+                      <option name="name" value="Distances" />
+                      <option name="record" value="3" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/WordComparer.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/WordComparer.kt" />
+                                <option name="text" value="import org.hyperskill.hstest.v5.testcase.CheckResult&#10;import java.util.*&#10;import kotlin.math.max&#10;import kotlin.math.min&#10;&#10;class InputToken(&#10;        val content: Any,&#10;        /** Position in range.*/&#10;        val range: IntRange&#10;) {&#10;    override fun equals(other: Any?): Boolean {&#10;        if (this === other) return true&#10;        if (javaClass != other?.javaClass) return false&#10;&#10;        other as InputToken&#10;&#10;        if (content != other.content) return false&#10;&#10;        return true&#10;    }&#10;&#10;    override fun hashCode(): Int {&#10;        return content.hashCode()&#10;    }&#10;&#10;    override fun toString() =&#10;            if (content::class.simpleName == &quot;String&quot;) &quot;$content&quot;&#10;            else &quot;$content(${content::class.simpleName})&quot;&#10;}&#10;&#10;/**Compares two output strings by words (splitted by spaces, commas etc).&#10; * Numbers in different formats are parsed equally.&#10; * Doubles are compared with [roundDoubleTo] precision.&#10; * All integer numbers should fit to long or they will be compared as strings.&#10; *&#10; * Run [compare] function to compare.&#10; * @param myStr authors output string.&#10; * @param hisStr  students output string.&#10; * @param roundDoubleTo number of digits after the dot to compare doubles.&#10; * @param integersAsDoubles Doubles such as 1.0 are now equal to integers.&#10; * @param trimErrorOnlyByLine if true, ignore [errorContextStd] and trim the error by \n&#10; * @param errorContextStd number of words in [myStr] and [hisStr] before and after the error word.&#10; * @param moreIgnoredSymbolsRegex add some symbols in regex notation to ignore. For example: &quot;\.,&quot; - will ignore dot or comma. */&#10;class WordComparer(&#10;        val myStr: String,&#10;        val hisStr: String,&#10;        val roundDoubleTo: Int = 7,&#10;        val integersAsDoubles: Boolean = false,&#10;        val trimErrorOnlyByLine: Boolean = true,&#10;        val errorContextStd: Int = 1,&#10;        val moreIgnoredSymbolsRegex: String = &quot;&quot;&#10;) {&#10;    /** Parse either double, long, word. */&#10;&#10;    private val wordRegex = Regex(&quot;&quot;&quot;([+-]?\d+\.\d+([eE][+-]\d+)?)|([+-]?\d+)|([^\s\d $moreIgnoredSymbolsRegex]+)&quot;&quot;&quot;)&#10;&#10;    private fun tokenizeWordsRegex(str: String): List&lt;InputToken&gt; {&#10;        return wordRegex.findAll(str)&#10;                .map { match -&gt;&#10;                    val (_, double, _, long, word) = match.groups.map { it?.value }&#10;&#10;                    val content: Any = when {&#10;                        long?.toLongOrNull() != null -&gt;&#10;                            if (integersAsDoubles) long.toDouble() else long.toLong()&#10;&#10;                        double?.toDoubleOrNull() != null -&gt; {&#10;                            // Locale.US puts a dot separator&#10;                            &quot;%.${roundDoubleTo}f&quot;.format(Locale.US, double.toDouble()).toDouble()&#10;                        }&#10;&#10;                        else -&gt; match.value&#10;                    }&#10;                    InputToken(content, match.range)&#10;                }.toList()&#10;    }&#10;&#10;&#10;    fun compare(): CheckResult {&#10;        // I am author&#10;        val myTokens = tokenizeWordsRegex(myStr)&#10;        val hisTokens = tokenizeWordsRegex(hisStr)&#10;//        println(&quot;authorString: $myStr&quot;)&#10;//        println(&quot;authorTokens: $myTokens&quot;)&#10;//        println(&quot;studentTokens: $hisTokens&quot;)&#10;&#10;        val badTokenIdx = myTokens.zip(hisTokens).indexOfFirst { (my, his) -&gt; my != his }&#10;&#10;        if (badTokenIdx != -1) {&#10;            fun substr(tokens: List&lt;InputToken&gt;, input: String): String {&#10;                if (trimErrorOnlyByLine) {&#10;                    // trim by \n&#10;                    val badToken = tokens[badTokenIdx]&#10;                    val start = input.take(badToken.range.start).lastIndexOf('\n').let { if (it == -1) 0 else it + 1 }&#10;                    val end = input.indexOf('\n', badToken.range.endInclusive).let { if (it == -1) input.length else it }&#10;                    return input.substring(start, end).trimEnd('\r')&#10;                }&#10;                // trim by nearest tokens&#10;                val std = errorContextStd&#10;                val subTokens = tokens.subList(max(badTokenIdx - std, 0), min(badTokenIdx + std + 1, tokens.size))&#10;                val strStart = subTokens.first().range.start&#10;                val strEnd = subTokens.last().range.endInclusive + 1&#10;                return input.substring(strStart, strEnd)&#10;            }&#10;&#10;            val myContext = substr(myTokens, myStr)&#10;            val hisContext = substr(hisTokens, hisStr)&#10;            if (trimErrorOnlyByLine) {&#10;                val hisBadToken = hisTokens[badTokenIdx]&#10;                val myBadToken = myTokens[badTokenIdx]&#10;                return CheckResult(false, &quot;Your line \&quot;$hisContext\&quot;\n&quot; +&#10;                        &quot;doesn't match with \&quot;$myContext\&quot;\n&quot; +&#10;                        &quot;in parts \&quot;${hisBadToken.content}\&quot; and \&quot;${myBadToken.content}\&quot;.&quot;)&#10;            }&#10;            return CheckResult(false, &quot;Your output ...$hisContext... doesn't match with ...$myContext...&quot;)&#10;        }&#10;        return CheckResult.TRUE&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/TestCaseHelpers.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/TestCaseHelpers.kt" />
+                                <option name="text" value="import org.hyperskill.hstest.v5.testcase.CheckResult&#10;import org.hyperskill.hstest.v5.testcase.TestCase&#10;import java.io.ByteArrayOutputStream&#10;import java.io.PrintStream&#10;import java.util.*&#10;&#10;/** Output based clue. */&#10;data class OutputClue(&#10;        val output: String,&#10;        /** Do not show correct output and input. */&#10;        var isPrivate: Boolean = false,&#10;        /** Optionally you can add the console input. */&#10;        val input: String? = null&#10;)&#10;&#10;/** Default testCase. */&#10;fun &lt;T&gt; testCase(attach: T, input: String) = TestCase&lt;T&gt;().apply {&#10;    setInput(input)&#10;    setAttach(attach)&#10;}&#10;&#10;/** [OutputClue] based testCase. Doesn't mean that lines will be compared by letters!!!*/&#10;fun outputCase(input: String, output: String, isPrivate: Boolean = false) =&#10;        testCase(OutputClue(output, isPrivate, input), input)&#10;&#10;&#10;/** TestCase, based on authors solution output. */&#10;fun authorsCaseFromFun(&#10;        mainMethod: (Scanner, PrintStream) -&gt; Unit,&#10;        input: String,&#10;        isPrivate: Boolean = false&#10;): TestCase&lt;OutputClue&gt; {&#10;&#10;    val authorsBytes = ByteArrayOutputStream()&#10;    mainMethod(Scanner(input), PrintStream(authorsBytes, true))&#10;    val authors = authorsBytes.toString()&#10;&#10;    return testCase(OutputClue(authors, isPrivate, input), input)&#10;}&#10;&#10;fun TestCase&lt;OutputClue&gt;.private() = this.apply { attach.isPrivate = true }&#10;&#10;/** Hide error description in private test. */&#10;fun CheckResult.ciphered() =&#10;        if (!isCorrect)&#10;            CheckResult(false)&#10;        else CheckResult(true, feedback)&#10;&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/ConverterTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/ConverterTest.java" />
+                                <option name="text" value="import converter.MainKt;&#10;import org.hyperskill.hstest.v5.stage.BaseStageTest;&#10;&#10;&#10;abstract public class ConverterTest&lt;T&gt; extends BaseStageTest&lt;T&gt; {&#10;    public ConverterTest() throws Exception {&#10;        super(MainKt.class);&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/Authors.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/Authors.kt" />
+                                <option name="text" value="import java.io.*&#10;import java.util.*&#10;&#10;&#10;data class Measure(&#10;        val short: String,&#10;        val normal: String,&#10;        val plural: String,&#10;        val multiplier: Double&#10;) {&#10;    fun name(amount: Double) = if (amount == 1.0) normal else plural&#10;}&#10;&#10;&#10;val lengths = listOf(&#10;        Measure(&quot;m&quot;, &quot;meter&quot;, &quot;meters&quot;, 1.0),&#10;        Measure(&quot;km&quot;, &quot;kilometer&quot;, &quot;kilometers&quot;, 1000.0),&#10;        Measure(&quot;cm&quot;, &quot;centimeter&quot;, &quot;centimeters&quot;, 0.01),&#10;        Measure(&quot;mm&quot;, &quot;millimeter&quot;, &quot;millimeters&quot;, 0.001),&#10;        Measure(&quot;mi&quot;, &quot;mile&quot;, &quot;miles&quot;, 1609.35),&#10;        Measure(&quot;yd&quot;, &quot;yard&quot;, &quot;yards&quot;, 0.9144),&#10;        Measure(&quot;ft&quot;, &quot;foot&quot;, &quot;feet&quot;, 0.3048),&#10;        Measure(&quot;in&quot;, &quot;inch&quot;, &quot;inches&quot;, 0.0254)&#10;)&#10;&#10;val namesToMeasures = lengths&#10;        .flatMap { m -&gt;&#10;            listOf(m.short, m.normal, m.plural).map { name -&gt; name to m }&#10;        }.toMap()&#10;&#10;fun solveAuthors(sin: Scanner, sout: PrintStream) {&#10;&#10;&#10;&#10;    val regex = Regex(&quot;&quot;&quot;(\d+.?\d*) (\w+)[\n\r]*&quot;&quot;&quot;)&#10;&#10;    sout.print(&quot;Enter a number and a measure of length: &quot;)&#10;    val line = sin.nextLine().toLowerCase()&#10;&#10;    val (_, valueStr, name1) = regex.matchEntire(line)!!.groups.map { it!!.value }&#10;&#10;    val value = valueStr.toDouble()&#10;    val m1 = namesToMeasures[name1]!!&#10;    val m2 = namesToMeasures[&quot;m&quot;]!!&#10;&#10;    val converted = value * m1.multiplier&#10;&#10;    sout.println(&quot;$value ${m1.name(value)} is $converted ${m2.name(converted)}&quot;)&#10;}&#10;&#10;&#10;fun main(args: Array&lt;String&gt;) {&#10;    solveAuthors(Scanner(System.`in`), System.out)&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/Task3Test.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/Task3Test.kt" />
+                                <option name="text" value="&#10;import org.hyperskill.hstest.v5.testcase.CheckResult&#10;import org.hyperskill.hstest.v5.testcase.TestCase&#10;&#10;import java.io.ByteArrayOutputStream&#10;import java.io.PrintStream&#10;import java.util.*&#10;&#10;/** TestCase, based on authors solution output. */&#10;fun authorsCase(input: String, isPrivate: Boolean = false): TestCase&lt;OutputClue&gt; {&#10;    val authorsBytes = ByteArrayOutputStream()&#10;    solveAuthors(Scanner(input), PrintStream(authorsBytes, true))&#10;    val authors = authorsBytes.toString()&#10;&#10;    return testCase(OutputClue(authors, isPrivate), input)&#10;}&#10;&#10;private data class TestMeasure(&#10;        val short: String,&#10;        val normal: String,&#10;        val plural: String,&#10;        val multiplier: Double&#10;)&#10;&#10;class Task3Test : ConverterTest&lt;OutputClue&gt;() {&#10;&#10;    private fun fullAns(x1: Double, m1: String, x2: Double, m2: String)&#10;            = &quot;Enter a number and a measure of length: \n$x1 $m1 is $x2 $m2&quot;&#10;&#10;    override fun generate(): List&lt;TestCase&lt;OutputClue&gt;&gt; {&#10;        val l1 = listOf(&#10;                // tests from the example&#10;                authorsCase(&quot;2 km&quot;),&#10;                authorsCase(&quot;234 centimeters&quot;),&#10;                authorsCase(&quot;1000 millimeters&quot;),&#10;                authorsCase(&quot;1 miles&quot;),&#10;                authorsCase(&quot;123.456 YARDS&quot;),&#10;                authorsCase(&quot;12.9 feet&quot;),&#10;                authorsCase(&quot;2.1 IN&quot;),&#10;                // my tests&#10;                // zero&#10;                authorsCase(&quot;000 KM&quot;),&#10;                authorsCase(&quot;000 cm&quot;, isPrivate = true),&#10;                authorsCase(&quot;000.0 feet&quot;, isPrivate = true),&#10;                authorsCase(&quot;00.00 yd&quot;, isPrivate = true),&#10;&#10;                // lines are compared with WordComparer!&#10;                outputCase(&quot;123.456 YaRd&quot;, fullAns(123.456, &quot;yards&quot;, 112.8881664, &quot;meters&quot;)),&#10;&#10;                // one meter&#10;                authorsCase(&quot;0.001 km&quot;),&#10;                authorsCase(&quot;100 cm&quot;),&#10;                authorsCase(&quot;1000 mm&quot;)&#10;        )&#10;        // iterate all combinations&#10;        val l2 = listOf(&#10;                &quot;m&quot;, &quot;meter&quot;, &quot;meters&quot;,&#10;                &quot;km&quot;, &quot;kilometer&quot;, &quot;kilometers&quot;,&#10;                &quot;cm&quot;, &quot;centimeter&quot;, &quot;centimeters&quot;,&#10;                &quot;mm&quot;, &quot;millimeter&quot;, &quot;millimeters&quot;,&#10;                &quot;mi&quot;, &quot;mile&quot;, &quot;miles&quot;,&#10;                &quot;yd&quot;, &quot;yard&quot;, &quot;yards&quot;,&#10;                &quot;ft&quot;, &quot;foot&quot;, &quot;feet&quot;,&#10;                &quot;in&quot;, &quot;inch&quot;, &quot;inches&quot;&#10;        ).map {&#10;            authorsCase(&quot;100 $it&quot;, true)&#10;        }&#10;        return l1 + l2&#10;    }&#10;&#10;    override fun check(reply: String, clue: OutputClue): CheckResult {&#10;        // compare output the clue output and reply with our custom comparer.&#10;        val checkResult = WordComparer(clue.output, reply).compare()&#10;&#10;        if (clue.isPrivate)&#10;            return checkResult.ciphered()&#10;        return checkResult&#10;    }&#10;}&#10;&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/converter/Main.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/converter/Main.kt" />
+                                <option name="text" value="package converter&#10;&#10;fun main() {&#10;    println(&quot;Hello, World!&quot;)&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1562027854000" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2 style=&quot;text-align: center;&quot;&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;In this stage, you will write a program that can convert a value with any measurement type to value with any other measurement type.&lt;/p&gt;&#10;&#10;&lt;p&gt;Do not try to predefine all the possible conversion results; the smart way is to convert the input value to one predefined measurement type (for example, to meters) and then convert that same value with that same measurement type to a value with the output measurement type.&lt;/p&gt;&#10;&#10;&lt;p&gt;Also, in this stage, the user should be able to convert values with any type of weight measurement.&lt;/p&gt;&#10;&#10;&lt;p&gt;The conversion should follow these rules:&lt;/p&gt;&#10;&#10;&lt;ol&gt;&#10;&#9;&lt;li&gt;One gram should consist of 1 gram.&lt;/li&gt;&#10;&#9;&lt;li&gt;One kilogram should consist of 1000 grams.&lt;/li&gt;&#10;&#9;&lt;li&gt;One milligram should consist of 0.001 grams.&lt;/li&gt;&#10;&#9;&lt;li&gt;One pound should consist of 453.592 grams.&lt;/li&gt;&#10;&#9;&lt;li&gt;One ounce should consist of 28.3495 grams.&lt;/li&gt;&#10;&lt;/ol&gt;&#10;&#10;&lt;p&gt;The user should input a number, then a type of measurement. Then some random word (for example &quot;in&quot; or &quot;to&quot;, but can be any word), and then the output measurement type. In addition to the above measurement types, the following types of measurement should be allowed:&lt;/p&gt;&#10;&#10;&lt;ol&gt;&#10;&#9;&lt;li&gt;For grams, the user can input &quot;g&quot;, &quot;gram&quot;, or &quot;grams&quot;.&lt;/li&gt;&#10;&#9;&lt;li&gt;For kilograms, the user can input &quot;kg&quot;, &quot;kilogram&quot;, or &quot;kilograms&quot;.&lt;/li&gt;&#10;&#9;&lt;li&gt;For milligrams, the user can input &quot;mg&quot;, &quot;milligram&quot;, or &quot;milligrams&quot;.&lt;/li&gt;&#10;&#9;&lt;li&gt;For pounds, the user can input &quot;lb&quot;, &quot;pound&quot;, or &quot;pounds&quot;.&lt;/li&gt;&#10;&#9;&lt;li&gt;For ounces, the user can input &quot;oz&quot;, &quot;ounce&quot;, or &quot;ounces&quot;.&lt;/li&gt;&#10;&lt;/ol&gt;&#10;&#10;&lt;p&gt;Also, in this stage, you need to write an infinite cycle which stops only if the user types &quot;exit&quot;.&lt;/p&gt;&#10;&#10;&lt;h2 style=&quot;text-align: center;&quot;&gt;Output examples&lt;/h2&gt;&#10;&#10;&lt;p&gt;The examples are shown below:&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Enter what you want to convert (or exit): 1 kg to ounces&#10;1.0 kilogram is 35.27399072294044 ounces&#10;Enter what you want to convert (or exit): 2 meters in yards&#10;2.0 meters is 2.1872265966754156 yards&#10;Enter what you want to convert (or exit): 1 pound in kg&#10;1.0 pound is 0.453592 kilograms&#10;Enter what you want to convert (or exit): exit&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Enter what you want to convert (or exit): 1 oz to g&#10;1.0 ounce is 28.3495 grams&#10;Enter what you want to convert (or exit): 100 cm in meters&#10;100.0 centimeters is 1.0 meter&#10;Enter what you want to convert (or exit): 23.34 feet to in&#10;23.34 feet is 280.08 inches&#10;Enter what you want to convert (or exit): exit&#10;&lt;/code&gt;&lt;/pre&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/70/stages/388/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="6093" />
+                      <option name="index" value="4" />
+                      <option name="name" value="Heavy duty" />
+                      <option name="record" value="4" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/WordComparer.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/WordComparer.kt" />
+                                <option name="text" value="import org.hyperskill.hstest.v5.testcase.CheckResult&#10;import java.util.*&#10;import kotlin.math.max&#10;import kotlin.math.min&#10;&#10;class InputToken(&#10;        val content: Any,&#10;        /** Position in range.*/&#10;        val range: IntRange&#10;) {&#10;    override fun equals(other: Any?): Boolean {&#10;        if (this === other) return true&#10;        if (javaClass != other?.javaClass) return false&#10;&#10;        other as InputToken&#10;&#10;        if (content != other.content) return false&#10;&#10;        return true&#10;    }&#10;&#10;    override fun hashCode(): Int {&#10;        return content.hashCode()&#10;    }&#10;&#10;    override fun toString() =&#10;            if (content::class.simpleName == &quot;String&quot;) &quot;$content&quot;&#10;            else &quot;$content(${content::class.simpleName})&quot;&#10;}&#10;&#10;/**Compares two output strings by words (splitted by spaces, commas etc).&#10; * Numbers in different formats are parsed equally.&#10; * Doubles are compared with [roundDoubleTo] precision.&#10; * All integer numbers should fit to long or they will be compared as strings.&#10; *&#10; * Run [compare] function to compare.&#10; * @param myStr authors output string.&#10; * @param hisStr  students output string.&#10; * @param roundDoubleTo number of digits after the dot to compare doubles.&#10; * @param integersAsDoubles Doubles such as 1.0 are now equal to integers.&#10; * @param trimErrorOnlyByLine if true, ignore [errorContextStd] and trim the error by \n&#10; * @param errorContextStd number of words in [myStr] and [hisStr] before and after the error word.&#10; * @param moreIgnoredSymbolsRegex add some symbols in regex notation to ignore. For example: &quot;\.,&quot; - will ignore dot or comma. */&#10;class WordComparer(&#10;        val myStr: String,&#10;        val hisStr: String,&#10;        val roundDoubleTo: Int = 7,&#10;        val integersAsDoubles: Boolean = false,&#10;        val trimErrorOnlyByLine: Boolean = true,&#10;        val errorContextStd: Int = 1,&#10;        val moreIgnoredSymbolsRegex: String = &quot;&quot;&#10;) {&#10;    /** Parse either double, long, word. */&#10;&#10;    private val wordRegex = Regex(&quot;&quot;&quot;([+-]?\d+\.\d+([eE][+-]\d+)?)|([+-]?\d+)|([^\s\d $moreIgnoredSymbolsRegex]+)&quot;&quot;&quot;)&#10;&#10;    private fun tokenizeWordsRegex(str: String): List&lt;InputToken&gt; {&#10;        return wordRegex.findAll(str)&#10;                .map { match -&gt;&#10;                    val (_, double, _, long, word) = match.groups.map { it?.value }&#10;&#10;                    val content: Any = when {&#10;                        long?.toLongOrNull() != null -&gt;&#10;                            if (integersAsDoubles) long.toDouble() else long.toLong()&#10;&#10;                        double?.toDoubleOrNull() != null -&gt; {&#10;                            // Locale.US puts a dot separator&#10;                            &quot;%.${roundDoubleTo}f&quot;.format(Locale.US, double.toDouble()).toDouble()&#10;                        }&#10;&#10;                        else -&gt; match.value&#10;                    }&#10;                    InputToken(content, match.range)&#10;                }.toList()&#10;    }&#10;&#10;&#10;    fun compare(): CheckResult {&#10;        // I am author&#10;        val myTokens = tokenizeWordsRegex(myStr)&#10;        val hisTokens = tokenizeWordsRegex(hisStr)&#10;//        println(&quot;authorString: $myStr&quot;)&#10;//        println(&quot;authorTokens: $myTokens&quot;)&#10;//        println(&quot;studentTokens: $hisTokens&quot;)&#10;&#10;        val badTokenIdx = myTokens.zip(hisTokens).indexOfFirst { (my, his) -&gt; my != his }&#10;&#10;        if (badTokenIdx != -1) {&#10;            fun substr(tokens: List&lt;InputToken&gt;, input: String): String {&#10;                if (trimErrorOnlyByLine) {&#10;                    // trim by \n&#10;                    val badToken = tokens[badTokenIdx]&#10;                    val start = input.take(badToken.range.start).lastIndexOf('\n').let { if (it == -1) 0 else it + 1 }&#10;                    val end = input.indexOf('\n', badToken.range.endInclusive).let { if (it == -1) input.length else it }&#10;                    return input.substring(start, end).trimEnd('\r')&#10;                }&#10;                // trim by nearest tokens&#10;                val std = errorContextStd&#10;                val subTokens = tokens.subList(max(badTokenIdx - std, 0), min(badTokenIdx + std + 1, tokens.size))&#10;                val strStart = subTokens.first().range.start&#10;                val strEnd = subTokens.last().range.endInclusive + 1&#10;                return input.substring(strStart, strEnd)&#10;            }&#10;&#10;            val myContext = substr(myTokens, myStr)&#10;            val hisContext = substr(hisTokens, hisStr)&#10;            if (trimErrorOnlyByLine) {&#10;                val hisBadToken = hisTokens[badTokenIdx]&#10;                val myBadToken = myTokens[badTokenIdx]&#10;                return CheckResult(false, &quot;Your line \&quot;$hisContext\&quot;\n&quot; +&#10;                        &quot;doesn't match with \&quot;$myContext\&quot;\n&quot; +&#10;                        &quot;in parts \&quot;${hisBadToken.content}\&quot; and \&quot;${myBadToken.content}\&quot;.&quot;)&#10;            }&#10;            return CheckResult(false, &quot;Your output ...$hisContext... doesn't match with ...$myContext...&quot;)&#10;        }&#10;        return CheckResult.TRUE&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/TestCaseHelpers.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/TestCaseHelpers.kt" />
+                                <option name="text" value="import org.hyperskill.hstest.v5.testcase.CheckResult&#10;import org.hyperskill.hstest.v5.testcase.TestCase&#10;import java.io.ByteArrayOutputStream&#10;import java.io.PrintStream&#10;import java.util.*&#10;&#10;/** Output based clue. */&#10;data class OutputClue(&#10;        val output: String,&#10;        /** Do not show correct output and input. */&#10;        var isPrivate: Boolean = false,&#10;        /** Optionally you can add the console input. */&#10;        val input: String? = null&#10;)&#10;&#10;/** Default testCase. */&#10;fun &lt;T&gt; testCase(attach: T, input: String) = TestCase&lt;T&gt;().apply {&#10;    setInput(input)&#10;    setAttach(attach)&#10;}&#10;&#10;/** [OutputClue] based testCase. Doesn't mean that lines will be compared by letters!!!*/&#10;fun outputCase(input: String, output: String, isPrivate: Boolean = false) =&#10;        testCase(OutputClue(output, isPrivate, input), input)&#10;&#10;&#10;/** TestCase, based on authors solution output. */&#10;fun authorsCaseFromFun(&#10;        mainMethod: (Scanner, PrintStream) -&gt; Unit,&#10;        input: String,&#10;        isPrivate: Boolean = false&#10;): TestCase&lt;OutputClue&gt; {&#10;&#10;    val authorsBytes = ByteArrayOutputStream()&#10;    mainMethod(Scanner(input), PrintStream(authorsBytes, true))&#10;    val authors = authorsBytes.toString()&#10;&#10;    return testCase(OutputClue(authors, isPrivate, input), input)&#10;}&#10;&#10;fun TestCase&lt;OutputClue&gt;.private() = this.apply { attach.isPrivate = true }&#10;&#10;/** Hide error description in private test. */&#10;fun CheckResult.ciphered() =&#10;        if (!isCorrect)&#10;            CheckResult(false)&#10;        else CheckResult(true, feedback)&#10;&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/ConverterTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/ConverterTest.java" />
+                                <option name="text" value="import converter.MainKt;&#10;import org.hyperskill.hstest.v5.stage.BaseStageTest;&#10;&#10;&#10;abstract public class ConverterTest&lt;T&gt; extends BaseStageTest&lt;T&gt; {&#10;    public ConverterTest() throws Exception {&#10;        super(MainKt.class);&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/Authors.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/Authors.kt" />
+                                <option name="text" value="&#10;import MeasureType.*&#10;import java.io.*&#10;import java.util.*&#10;&#10;&#10;enum class MeasureType {&#10;    Length, Weight;&#10;&#10;    fun of(short: String,&#10;           normal: String,&#10;           plural: String,&#10;           multiplier: Double) = Measure(this, short, normal, plural, multiplier)&#10;}&#10;&#10;data class Measure(&#10;        val type: MeasureType,&#10;        val short: String,&#10;        val normal: String,&#10;        val plural: String,&#10;        val multiplier: Double&#10;) {&#10;    fun name(amount: Double) = if (amount == 1.0) normal else plural&#10;}&#10;&#10;&#10;fun solveAuthors(sin: Scanner, sout: PrintStream) {&#10;&#10;    val measures = listOf(&#10;            Length.of(&quot;m&quot;, &quot;meter&quot;, &quot;meters&quot;, 1.0),&#10;            Length.of(&quot;km&quot;, &quot;kilometer&quot;, &quot;kilometers&quot;, 1000.0),&#10;            Length.of(&quot;cm&quot;, &quot;centimeter&quot;, &quot;centimeters&quot;, 0.01),&#10;            Length.of(&quot;mm&quot;, &quot;millimeter&quot;, &quot;millimeters&quot;, 0.001),&#10;            Length.of(&quot;mi&quot;, &quot;mile&quot;, &quot;miles&quot;, 1609.35),&#10;            Length.of(&quot;yd&quot;, &quot;yard&quot;, &quot;yards&quot;, 0.9144),&#10;            Length.of(&quot;ft&quot;, &quot;foot&quot;, &quot;feet&quot;, 0.3048),&#10;            Length.of(&quot;in&quot;, &quot;inch&quot;, &quot;inches&quot;, 0.0254),&#10;&#10;            Weight.of(&quot;g&quot;, &quot;gram&quot;, &quot;grams&quot;, 1.0),&#10;            Weight.of(&quot;kg&quot;, &quot;kilogram&quot;, &quot;kilograms&quot;, 1000.0),&#10;            Weight.of(&quot;mg&quot;, &quot;milligram&quot;, &quot;milligrams&quot;, 0.001),&#10;            Weight.of(&quot;lb&quot;, &quot;pound&quot;, &quot;pounds&quot;, 453.592),&#10;            Weight.of(&quot;oz&quot;, &quot;ounce&quot;, &quot;ounces&quot;, 28.3495)&#10;    )&#10;&#10;    val namesToMeasures = measures&#10;            .flatMap { m -&gt;&#10;                listOf(m.short, m.normal, m.plural).map { name -&gt; name to m }&#10;            }.toMap()&#10;&#10;&#10;    while (true) {&#10;        sout.print(&quot;Enter what you want to convert (or exit): &quot;)&#10;        val valueStr = sin.next()&#10;        if (valueStr == &quot;exit&quot;) {&#10;            break&#10;        }&#10;&#10;        val value = valueStr.toDouble()&#10;&#10;        // read measures:&#10;        val m1Str = sin.next().toLowerCase()&#10;        val m1 = namesToMeasures[m1Str]!!&#10;        sin.next() // unknown word like to or in&#10;        val m2Str = sin.next().toLowerCase()&#10;        val m2 = namesToMeasures[m2Str]!!&#10;&#10;        val converted = value * m1.multiplier / m2.multiplier&#10;        sout.println(&quot;$value ${m1.name(value)} is $converted ${m2.name(converted)}&quot;)&#10;    }&#10;}&#10;&#10;&#10;fun main(args: Array&lt;String&gt;) {&#10;    solveAuthors(Scanner(System.`in`), System.out)&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/Task4Test.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/Task4Test.kt" />
+                                <option name="text" value="&#10;import org.hyperskill.hstest.v5.testcase.CheckResult&#10;import org.hyperskill.hstest.v5.testcase.TestCase&#10;&#10;&#10;/** TestCase, based on authors solution output. */&#10;fun authorsCase(input: String, isPrivate: Boolean = false)&#10;        = authorsCaseFromFun(::solveAuthors, input, isPrivate)&#10;&#10;class Task4Test : ConverterTest&lt;OutputClue&gt;() {&#10;&#10;    override fun generate(): List&lt;TestCase&lt;OutputClue&gt;&gt; {&#10;        val l1 = listOf(&#10;                // tests from the example&#10;                authorsCase(&quot;1 kg to ounces\n&quot; +&#10;                        &quot;2 meters in yards\n&quot; +&#10;                        &quot;1 pound in kg\n&quot; +&#10;                        &quot;exit\n&quot;),&#10;&#10;                authorsCase(&quot;1 oz to g\n&quot; +&#10;                        &quot;100 cm in meters\n&quot; +&#10;                        &quot;23.34 feet to in\n&quot; +&#10;                        &quot;exit\n&quot;),&#10;&#10;                // my tests.&#10;                // user doesn't handle errors here&#10;&#10;                // custom separator&#10;                authorsCase(&quot;10 kilograms convertPleaseTo GRAMS\nexit&quot;),&#10;                authorsCase(&quot;10 mm youConvertTo CM\nexit&quot;, true),&#10;&#10;                // one kilogram&#10;                authorsCase(&quot;1000 Grams to kg\nexit&quot;),&#10;                authorsCase(&quot;1000 mg to g\nexit&quot;, true),&#10;                authorsCase(&quot;0.000001 kg to mg\nexit&quot;, true)&#10;        )&#10;&#10;        val weights = listOf(&#10;                &quot;g&quot;, &quot;gram&quot;, &quot;grams&quot;,&#10;                &quot;kg&quot;, &quot;kilogram&quot;, &quot;kilograms&quot;,&#10;                &quot;mg&quot;, &quot;milligram&quot;, &quot;milligrams&quot;,&#10;                &quot;lb&quot;, &quot;pound&quot;, &quot;POUNDS&quot;,&#10;                &quot;oz&quot;, &quot;ounce&quot;, &quot;ounces&quot;)&#10;&#10;        val lastTest = weights&#10;                // all combinations&#10;                .flatMap { w1 -&gt; weights.map { w2 -&gt; w1 to w2 } }&#10;                .map { (w1, w2) -&gt;&#10;                    &quot;12.5 $w1 in $w2&quot;&#10;                }&#10;                .joinToString(&quot;\n&quot;, postfix = &quot;\nexit&quot;)&#10;                .let { authorsCase(it) }&#10;&#10;        return l1 + lastTest&#10;    }&#10;&#10;    override fun check(reply: String, clue: OutputClue): CheckResult {&#10;        // compare the clue output and reply with our custom comparer.&#10;        val checkResult = WordComparer(clue.output, reply).compare()&#10;&#10;        if (clue.isPrivate)&#10;            return checkResult.ciphered()&#10;        return checkResult&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/converter/Main.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/converter/Main.kt" />
+                                <option name="text" value="package converter&#10;&#10;fun main() {&#10;    println(&quot;Hello, World!&quot;)&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1562027854000" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2 style=&quot;text-align: center;&quot;&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;Let's rewrite our program to use enums. Have you ever noticed that&lt;strong&gt;,&lt;/strong&gt; in all probability, you have a lot of checks on the string representation of measurement types? Especially that each measurement type has at least three different string representations.&lt;/p&gt;&#10;&#10;&lt;p&gt;So, if you represent each measurement type by a special enum value, the code becomes more clean and readable, and since comparing enum values is much faster than comparing strings, the code is processed faster.&lt;/p&gt;&#10;&#10;&lt;p&gt;Also, let's introduce the main temperature measurement types that are used today:&lt;strong&gt; &lt;/strong&gt;degrees Celsius (C), degrees Fahrenheit (F) and Kelvins (K).&lt;/p&gt;&#10;&#10;&lt;p&gt;Converting these measurement types among each other is somewhat different than comparing the length measurement types and the weight measurement types: 0 degrees Kelvin is not equal to 0 degrees Celsius or 0 degrees Fahrenheit, and 0 degrees Celsius is not equal to 0 degrees Fahrenheit.&lt;/p&gt;&#10;&#10;&lt;p&gt;Below are all the formulas for converting one temperature measurement type to another.&lt;strong&gt; &lt;/strong&gt;In these, the letter &lt;span class=&quot;math-tex&quot;&gt;\( K \)&lt;/span&gt; means degrees Kelvin, the letter &lt;span class=&quot;math-tex&quot;&gt;\( C \)&lt;/span&gt; means degrees Celsius, and the letter &lt;span class=&quot;math-tex&quot;&gt;\( F \)&lt;/span&gt; means degrees Fahrenheit.&lt;/p&gt;&#10;&#10;&lt;p&gt;To convert between degrees Celsius and degrees Fahrenheit you can use these formulas:&lt;/p&gt;&#10;&#10;&lt;p&gt;&lt;span class=&quot;math-tex&quot;&gt;\( C = (F - 32) * 5 / 9 \)&lt;/span&gt;&lt;/p&gt;&#10;&#10;&lt;p&gt;&lt;span class=&quot;math-tex&quot;&gt;\( F = C * 9 / 5 + 32 \)&lt;/span&gt;&lt;/p&gt;&#10;&#10;&lt;p&gt;To convert between Kelvins and degrees Celsius you can use these formulas:&lt;/p&gt;&#10;&#10;&lt;p&gt;&lt;span class=&quot;math-tex&quot;&gt;\( K = C + 273.15 \)&lt;/span&gt;&lt;/p&gt;&#10;&#10;&lt;p&gt;&lt;span class=&quot;math-tex&quot;&gt;\( C = K - 273.15 \)&lt;/span&gt;&lt;/p&gt;&#10;&#10;&lt;p&gt;To convert between degrees Fahrenheit and Kelvins you can use these formulas:&lt;/p&gt;&#10;&#10;&lt;p&gt;&lt;span class=&quot;math-tex&quot;&gt;\( F = K * 9 / 5 - 459.67 \)&lt;/span&gt;&lt;/p&gt;&#10;&#10;&lt;p&gt;&lt;span class=&quot;math-tex&quot;&gt;\( K = (F + 459.67) * 5 / 9 \)&lt;/span&gt;&lt;/p&gt;&#10;&#10;&lt;p&gt;To distinguish&lt;strong&gt; &lt;/strong&gt;these measure types, you need to follow these rules:&lt;/p&gt;&#10;&#10;&lt;ol&gt;&#10;&#9;&lt;li&gt;For degrees Celsius, the user can input &quot;degree Celsius&quot;, &quot;degrees Celsius&quot;, &quot;celsius&quot; &quot;dc&quot;, or &quot;c&quot;.&lt;/li&gt;&#10;&#9;&lt;li&gt;For degrees Fahrenheit, the user can input &quot;degree Fahrenheit&quot;, &quot;degrees Fahrenheit&quot;, &quot;fahrenheit&quot;, &quot;df&quot;, or &quot;f&quot;.&lt;/li&gt;&#10;&#9;&lt;li&gt;For Kelvins, the user can input, &quot;Kelvin&quot;, &quot;Kelvins&quot;, or &quot;k&quot;.&lt;/li&gt;&#10;&lt;/ol&gt;&#10;&#10;&lt;p&gt;Also, in this stage, you need to output error messages when a conversion between two measure types is not allowed (for example, meters to kilograms), and in cases when one of the measure types is not recognized.&lt;/p&gt;&#10;&#10;&lt;p&gt;If you cannot determine the measurement type then output &quot;???&quot; instead (obviously, it would be inside an error message). Don't forget that in the error message both measurement types should be written in the plural, not in the singular.&lt;/p&gt;&#10;&#10;&lt;p&gt;In the user wants to convert weight from one to another but then inputted a negative amount you should print a message &quot;&lt;code&gt;Weight shouldn't be negative&lt;/code&gt;&quot;. Same should be true for lengths, a message should be &lt;code&gt;Length shouldn't be negative&lt;/code&gt; .&lt;/p&gt;&#10;&#10;&lt;h2 style=&quot;text-align: center;&quot;&gt;Output examples&lt;/h2&gt;&#10;&#10;&lt;p&gt;The examples are shown below:&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Enter what you want to convert (or exit): 1 degree Celsius to Kelvins&#10;1.0 degree Celsius is 274.15 Kelvins&#10;Enter what you want to convert (or exit): -272.15 dc to K&#10;-272.15 degrees Celsius is 1.0 Kelvin&#10;Enter what you want to convert (or exit): 1 kn to feet&#10;Conversion from ??? to feet is impossible&#10;Enter what you want to convert (or exit): 1 km to feet&#10;1.0 kilometer is 3280.839895013123 feet&#10;Enter what you want to convert (or exit): 3 pount to ounces&#10;Conversion from ??? to ounces is impossible&#10;Enter what you want to convert (or exit): 3 pound to ounces&#10;3.0 pounds is 47.99999999999999 ounces&#10;Enter what you want to convert (or exit): 3 kelvins to grams&#10;Conversion from Kelvins to grams is impossible&#10;Enter what you want to convert (or exit): 3 grams to meters&#10;Conversion from grams to meters is impossible&#10;Enter what you want to convert (or exit): exit&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Enter what you want to convert (or exit): 1 F in K&#10;1.0 degree Fahrenheit is 255.92777777777778 Kelvins&#10;Enter what you want to convert (or exit): 1 K in F&#10;1.0 Kelvin is -457.87 degrees Fahrenheit&#10;Enter what you want to convert (or exit): 1 C in K&#10;1.0 degree Celsius is 274.15 Kelvins&#10;Enter what you want to convert (or exit): 1 K in C&#10;1.0 Kelvin is -272.15 degrees Celsius&#10;Enter what you want to convert (or exit): 1 F in C&#10;1.0 degree Fahrenheit is -17.22222222222222 degrees Celsius&#10;Enter what you want to convert (or exit): 1 C in F&#10;1.0 degree Celsius is 33.8 degrees Fahrenheit&#10;Enter what you want to convert (or exit): exit&lt;/code&gt;&lt;/pre&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/70/stages/389/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="6094" />
+                      <option name="index" value="5" />
+                      <option name="name" value="Is it getting hot here?" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/WordComparer.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/WordComparer.kt" />
+                                <option name="text" value="import org.hyperskill.hstest.v5.testcase.CheckResult&#10;import java.util.*&#10;import kotlin.math.max&#10;import kotlin.math.min&#10;&#10;class InputToken(&#10;        val content: Any,&#10;        /** Position in range.*/&#10;        val range: IntRange&#10;) {&#10;    override fun equals(other: Any?): Boolean {&#10;        if (this === other) return true&#10;        if (javaClass != other?.javaClass) return false&#10;&#10;        other as InputToken&#10;&#10;        if (content != other.content) return false&#10;&#10;        return true&#10;    }&#10;&#10;    override fun hashCode(): Int {&#10;        return content.hashCode()&#10;    }&#10;&#10;    override fun toString() =&#10;            if (content::class.simpleName == &quot;String&quot;) &quot;$content&quot;&#10;            else &quot;$content(${content::class.simpleName})&quot;&#10;}&#10;&#10;/**Compares two output strings by words (splitted by spaces, commas etc).&#10; * Numbers in different formats are parsed equally.&#10; * Doubles are compared with [roundDoubleTo] precision.&#10; * All integer numbers should fit to long or they will be compared as strings.&#10; *&#10; * Run [compare] function to compare.&#10; * @param myStr authors output string.&#10; * @param hisStr  students output string.&#10; * @param roundDoubleTo number of digits after the dot to compare doubles.&#10; * @param integersAsDoubles Doubles such as 1.0 are now equal to integers.&#10; * @param trimErrorOnlyByLine if true, ignore [errorContextStd] and trim the error by \n&#10; * @param errorContextStd number of words in [myStr] and [hisStr] before and after the error word.&#10; * @param moreIgnoredSymbolsRegex add some symbols in regex notation to ignore. For example: &quot;\.,&quot; - will ignore dot or comma. */&#10;class WordComparer(&#10;        val myStr: String,&#10;        val hisStr: String,&#10;        val roundDoubleTo: Int = 7,&#10;        val integersAsDoubles: Boolean = false,&#10;        val trimErrorOnlyByLine: Boolean = true,&#10;        val errorContextStd: Int = 1,&#10;        val moreIgnoredSymbolsRegex: String = &quot;&quot;&#10;) {&#10;    /** Parse either double, long, word. */&#10;&#10;    private val wordRegex = Regex(&quot;&quot;&quot;([+-]?\d+\.\d+([eE][+-]\d+)?)|([+-]?\d+)|([^\s\d $moreIgnoredSymbolsRegex]+)&quot;&quot;&quot;)&#10;&#10;    private fun tokenizeWordsRegex(str: String): List&lt;InputToken&gt; {&#10;        return wordRegex.findAll(str)&#10;                .map { match -&gt;&#10;                    val (_, double, _, long, word) = match.groups.map { it?.value }&#10;&#10;                    val content: Any = when {&#10;                        long?.toLongOrNull() != null -&gt;&#10;                            if (integersAsDoubles) long.toDouble() else long.toLong()&#10;&#10;                        double?.toDoubleOrNull() != null -&gt; {&#10;                            // Locale.US puts a dot separator&#10;                            &quot;%.${roundDoubleTo}f&quot;.format(Locale.US, double.toDouble()).toDouble()&#10;                        }&#10;&#10;                        else -&gt; match.value&#10;                    }&#10;                    InputToken(content, match.range)&#10;                }.toList()&#10;    }&#10;&#10;&#10;    fun compare(): CheckResult {&#10;        // I am author&#10;        val myTokens = tokenizeWordsRegex(myStr)&#10;        val hisTokens = tokenizeWordsRegex(hisStr)&#10;//        println(&quot;authorString: $myStr&quot;)&#10;//        println(&quot;authorTokens: $myTokens&quot;)&#10;//        println(&quot;studentTokens: $hisTokens&quot;)&#10;&#10;        val badTokenIdx = myTokens.zip(hisTokens).indexOfFirst { (my, his) -&gt; my != his }&#10;&#10;        if (badTokenIdx != -1) {&#10;            fun substr(tokens: List&lt;InputToken&gt;, input: String): String {&#10;                if (trimErrorOnlyByLine) {&#10;                    // trim by \n&#10;                    val badToken = tokens[badTokenIdx]&#10;                    val start = input.take(badToken.range.start).lastIndexOf('\n').let { if (it == -1) 0 else it + 1 }&#10;                    val end = input.indexOf('\n', badToken.range.endInclusive).let { if (it == -1) input.length else it }&#10;                    return input.substring(start, end).trimEnd('\r')&#10;                }&#10;                // trim by nearest tokens&#10;                val std = errorContextStd&#10;                val subTokens = tokens.subList(max(badTokenIdx - std, 0), min(badTokenIdx + std + 1, tokens.size))&#10;                val strStart = subTokens.first().range.start&#10;                val strEnd = subTokens.last().range.endInclusive + 1&#10;                return input.substring(strStart, strEnd)&#10;            }&#10;&#10;            val myContext = substr(myTokens, myStr)&#10;            val hisContext = substr(hisTokens, hisStr)&#10;            if (trimErrorOnlyByLine) {&#10;                val hisBadToken = hisTokens[badTokenIdx]&#10;                val myBadToken = myTokens[badTokenIdx]&#10;                return CheckResult(false, &quot;Your line \&quot;$hisContext\&quot;\n&quot; +&#10;                        &quot;doesn't match with \&quot;$myContext\&quot;\n&quot; +&#10;                        &quot;in parts \&quot;${hisBadToken.content}\&quot; and \&quot;${myBadToken.content}\&quot;.&quot;)&#10;            }&#10;            return CheckResult(false, &quot;Your output ...$hisContext... doesn't match with ...$myContext...&quot;)&#10;        }&#10;        return CheckResult.TRUE&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/TestCaseHelpers.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/TestCaseHelpers.kt" />
+                                <option name="text" value="import org.hyperskill.hstest.v5.testcase.CheckResult&#10;import org.hyperskill.hstest.v5.testcase.TestCase&#10;import java.io.ByteArrayOutputStream&#10;import java.io.PrintStream&#10;import java.util.*&#10;&#10;/** Output based clue. */&#10;data class OutputClue(&#10;        val output: String,&#10;        /** Do not show correct output and input. */&#10;        var isPrivate: Boolean = false,&#10;        /** Optionally you can add the console input. */&#10;        val input: String? = null&#10;)&#10;&#10;/** Default testCase. */&#10;fun &lt;T&gt; testCase(attach: T, input: String) = TestCase&lt;T&gt;().apply {&#10;    setInput(input)&#10;    setAttach(attach)&#10;}&#10;&#10;/** [OutputClue] based testCase. Doesn't mean that lines will be compared by letters!!!*/&#10;fun outputCase(input: String, output: String, isPrivate: Boolean = false) =&#10;        testCase(OutputClue(output, isPrivate, input), input)&#10;&#10;&#10;/** TestCase, based on authors solution output. */&#10;fun authorsCaseFromFun(&#10;        mainMethod: (Scanner, PrintStream) -&gt; Unit,&#10;        input: String,&#10;        isPrivate: Boolean = false&#10;): TestCase&lt;OutputClue&gt; {&#10;&#10;    val authorsBytes = ByteArrayOutputStream()&#10;    mainMethod(Scanner(input), PrintStream(authorsBytes, true))&#10;    val authors = authorsBytes.toString()&#10;&#10;    return testCase(OutputClue(authors, isPrivate, input), input)&#10;}&#10;&#10;fun TestCase&lt;OutputClue&gt;.private() = this.apply { attach.isPrivate = true }&#10;&#10;/** Hide error description in private test. */&#10;fun CheckResult.ciphered() =&#10;        if (!isCorrect)&#10;            CheckResult(false)&#10;        else CheckResult(true, feedback)&#10;&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/ConverterTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/ConverterTest.java" />
+                                <option name="text" value="import converter.MainKt;&#10;import org.hyperskill.hstest.v5.stage.BaseStageTest;&#10;&#10;&#10;abstract public class ConverterTest&lt;T&gt; extends BaseStageTest&lt;T&gt; {&#10;    public ConverterTest() throws Exception {&#10;        super(MainKt.class);&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/Authors.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/Authors.kt" />
+                                <option name="text" value="import MeasureType.*&#10;import java.io.*&#10;import java.util.*&#10;&#10;&#10;enum class MeasureType {&#10;    Length, Weight, Temperature;&#10;&#10;    fun of(short: String,&#10;           normal: String,&#10;           plural: String,&#10;           multiplier: Double,&#10;           shift: Double = 0.0,&#10;           vararg otherNames: String) = Measure(this, short, normal, plural, multiplier, shift, *otherNames)&#10;}&#10;&#10;class Measure(&#10;        val type: MeasureType,&#10;        val short: String,&#10;        val normal: String,&#10;        val plural: String,&#10;        val multiplier: Double,&#10;        val shift: Double = 0.0,&#10;        vararg val otherNames: String&#10;) {&#10;    fun name(amount: Double) = if (amount == 1.0) normal else plural&#10;&#10;    val allNames get() = listOf(short, normal, plural, *otherNames)&#10;}&#10;&#10;val measures = listOf(&#10;        Length.of(&quot;m&quot;, &quot;meter&quot;, &quot;meters&quot;, 1.0),&#10;        Length.of(&quot;km&quot;, &quot;kilometer&quot;, &quot;kilometers&quot;, 1000.0), // one km is 1000.0 * 1 m&#10;        Length.of(&quot;cm&quot;, &quot;centimeter&quot;, &quot;centimeters&quot;, 0.01),&#10;        Length.of(&quot;mm&quot;, &quot;millimeter&quot;, &quot;millimeters&quot;, 0.001),&#10;        Length.of(&quot;mi&quot;, &quot;mile&quot;, &quot;miles&quot;, 1609.35),&#10;        Length.of(&quot;yd&quot;, &quot;yard&quot;, &quot;yards&quot;, 0.9144),&#10;        Length.of(&quot;ft&quot;, &quot;foot&quot;, &quot;feet&quot;, 0.3048),&#10;        Length.of(&quot;in&quot;, &quot;inch&quot;, &quot;inches&quot;, 0.0254),&#10;&#10;        Weight.of(&quot;g&quot;, &quot;gram&quot;, &quot;grams&quot;, 1.0),&#10;        Weight.of(&quot;kg&quot;, &quot;kilogram&quot;, &quot;kilograms&quot;, 1000.0),&#10;        Weight.of(&quot;mg&quot;, &quot;milligram&quot;, &quot;milligrams&quot;, 0.001),&#10;        Weight.of(&quot;lb&quot;, &quot;pound&quot;, &quot;pounds&quot;, 453.592),&#10;        Weight.of(&quot;oz&quot;, &quot;ounce&quot;, &quot;ounces&quot;, 28.3495),&#10;&#10;        Temperature.of(&quot;c&quot;, &quot;degree Celsius&quot;, &quot;degrees Celsius&quot;, 1.0, 0.0, &quot;dc&quot;, &quot;celsius&quot;),&#10;        Temperature.of(&quot;f&quot;, &quot;degree Fahrenheit&quot;, &quot;degrees Fahrenheit&quot;, 5 / 9.0, -32.0 * 5 / 9.0, &quot;df&quot;, &quot;fahrenheit&quot;), // one df is (1 -32)* 5/9 dc&#10;        Temperature.of(&quot;k&quot;, &quot;Kelvin&quot;, &quot;Kelvins&quot;, 1.0, -273.15) // one Kelvin is 1*1.0 - 273.15 dc&#10;)&#10;&#10;// we use lowercase names in map, but original names are not.&#10;val namesToMeasures = measures&#10;        .flatMap { m -&gt;&#10;            m.allNames.map { name -&gt; name.toLowerCase() to m }&#10;        }.toMap()&#10;&#10;&#10;fun solveAuthors(sin: Scanner, sout: PrintStream) {&#10;    while (true) {&#10;        sout.print(&quot;Enter what you want to convert (or exit): &quot;)&#10;        val valueStr = sin.next()&#10;        if (valueStr == &quot;exit&quot;) {&#10;            break&#10;        }&#10;&#10;        val value = valueStr.toDouble()&#10;&#10;        // read measures:&#10;        fun readMeasure(): String {&#10;            var word = sin.next()&#10;            if (word.toLowerCase() == &quot;degree&quot; || word.toLowerCase() == &quot;degrees&quot;) {&#10;                word += &quot; &quot; + sin.next()&#10;            }&#10;            return word&#10;        }&#10;&#10;        val m1Str = readMeasure()&#10;&#10;        sin.next() // unknown word like to or in&#10;        val m2Str = readMeasure()&#10;&#10;        val m1 = namesToMeasures[m1Str.toLowerCase()]&#10;        val m2 = namesToMeasures[m2Str.toLowerCase()]&#10;&#10;        // error handlers:&#10;        if (m1 == null || m2 == null) {&#10;            sout.println(&quot;Conversion from ${m1?.plural ?: &quot;???&quot;} to ${m2?.plural ?: &quot;???&quot;} is impossible.&quot;)&#10;            continue&#10;        }&#10;        if (m1.type != m2.type) {&#10;            sout.println(&quot;Conversion from ${m1.plural} to ${m2.plural} is impossible.&quot;)&#10;            continue&#10;        }&#10;        if (m1.type != Temperature &amp;&amp; value &lt; 0.0) {&#10;            sout.println(&quot;${m1.type.name} shouldn't be negative.&quot;)&#10;            continue&#10;        }&#10;&#10;        // a measure with 1.0 multiplier and 0.0 shift&#10;        val standard = value * m1.multiplier + m1.shift&#10;        val converted = (standard - m2.shift) / m2.multiplier&#10;&#10;        sout.println(&quot;$value ${m1.name(value)} is $converted ${m2.name(converted)}&quot;)&#10;    }&#10;}&#10;&#10;&#10;fun main(args: Array&lt;String&gt;) {&#10;    solveAuthors(Scanner(System.`in`), System.out)&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/Task5Test.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/Task5Test.kt" />
+                                <option name="text" value="import org.hyperskill.hstest.v5.testcase.CheckResult&#10;import org.hyperskill.hstest.v5.testcase.TestCase&#10;&#10;&#10;/** TestCase, based on authors solution output. */&#10;fun authorsCase(input: String, isPrivate: Boolean = false) =&#10;        authorsCaseFromFun(::solveAuthors, input, isPrivate)&#10;                .apply {&#10;                    println(&quot;========Authors: input ---&gt; output:&quot;)&#10;                    input.split('\n')&#10;                            .zip(attach.output.split('\n'))&#10;                            .map { (i, o) -&gt; i to o.replace(&quot;Enter what you want to convert (or exit): &quot;, &quot;&quot;) }&#10;                            .forEach { (i, o) -&gt; println(&quot;$i ---&gt; $o&quot;) }&#10;                    println(&quot;========&quot;)&#10;                }&#10;&#10;class Task5Test : ConverterTest&lt;OutputClue&gt;() {&#10;&#10;    override fun generate(): List&lt;TestCase&lt;OutputClue&gt;&gt; {&#10;        val l1 = listOf(&#10;                // tests from the example&#10;                authorsCase(&quot;1 degree Celsius to Kelvins\n&quot; +&#10;                        &quot;-272.15 dc to K\n&quot; +&#10;                        &quot;1 kn to feet\n&quot; +&#10;                        &quot;1 km to feet\n&quot; +&#10;                        &quot;3 pount to ounces\n&quot; +&#10;                        &quot;3 pound to ounces\n&quot; +&#10;                        &quot;3 kelvins to grams\n&quot; +&#10;                        &quot;3 grams to meters\n&quot; +&#10;                        &quot;exit\n&quot;),&#10;                authorsCase(&quot;1 F in K\n&quot; +&#10;                        &quot;1 K in F\n&quot; +&#10;                        &quot;1 C in K\n&quot; +&#10;                        &quot;1 K in C\n&quot; +&#10;                        &quot;1 F in C\n&quot; +&#10;                        &quot;1 C in F\n&quot; +&#10;                        &quot;exit\n&quot;),&#10;&#10;                // my tests.&#10;&#10;                // errors&#10;                // unknown&#10;                authorsCase(&quot;100 AAA convertTo BBB\nexit&quot;),&#10;                authorsCase(&quot;-100.0 X to Y\nexit&quot;, true),&#10;                authorsCase(&quot;-100.0 kelvin to Y\nexit&quot;),&#10;                authorsCase(&quot;-100.0 X to Kelvin\nexit&quot;, true),&#10;                authorsCase(&quot;100.0 X to Pound\nexit&quot;, true),&#10;                // negative unsupported&#10;                authorsCase(&quot;-100.1 cm to M\nexit&quot;),&#10;                authorsCase(&quot;-10.10 Kilometer to mm\nexit&quot;, true),&#10;                authorsCase(&quot;-100.1 Gram to kg\nexit&quot;),&#10;                authorsCase(&quot;-100.1 mg to g\nexit&quot;, true),&#10;                // incomparable&#10;                authorsCase(&quot;1 Pound to degrees Celsius \nexit&quot;),&#10;                authorsCase(&quot;1 cm to Kelvin\nexit&quot;, true),&#10;                authorsCase(&quot;1 k to mm\nexit&quot;, true),&#10;                authorsCase(&quot;1 g to df\nexit&quot;, true),&#10;                authorsCase(&quot;1 degrees celsius to Grams\nexit&quot;),&#10;                authorsCase(&quot;1 Grams to degree Fahrenheit\nexit&quot;, true),&#10;&#10;                // two word names&#10;                authorsCase(&quot;1 degree XX to degrees YY\nexit&quot;),&#10;                authorsCase(&quot;1 degrees XX to degree YY\nexit&quot;, true),&#10;                authorsCase(&quot;12 degree Celsius to degrees nnn\nexit&quot;, true),&#10;                authorsCase(&quot;15 DEGREES CELSIUS in DEGREE FAHRENHEIT\nexit&quot;),&#10;                authorsCase(&quot;12 DEGREE xxx to degrees Fahrenheit\nexit&quot;),&#10;                authorsCase(&quot;15 DEGREE CELsius in Degrees CELsius\nexit&quot;, true),&#10;                authorsCase(&quot;15 DEGREE CELsius in mm\nexit&quot;, true),&#10;                authorsCase(&quot;17 celsius in fahrenheit\nexit&quot;) // another short names.&#10;        )&#10;&#10;        val temps = listOf(&#10;                &quot;kelvins&quot;, &quot;kelvin&quot;, &quot;k&quot;,&#10;                &quot;degrees celsius&quot;, &quot;degree celsius&quot;, &quot;celsius&quot;, &quot;dc&quot;, &quot;c&quot;,&#10;                &quot;degrees fahrenheit&quot;, &quot;degree fahrenheit&quot;, &quot;fahrenheit&quot;, &quot;df&quot;, &quot;f&quot;,&#10;                &quot;XX&quot;, &quot;yard&quot; // plus some noise.&#10;        )&#10;        val lastTest = temps&#10;                // all combinations&#10;                .flatMap { t1 -&gt; temps.map { t2 -&gt; t1 to t2 } }&#10;                .mapIndexed { i, (t1, t2) -&gt;&#10;                    &quot;${i + 1} $t1 in $t2&quot;&#10;                }&#10;                .joinToString(&quot;\n&quot;, postfix = &quot;\nexit&quot;)&#10;                .let { authorsCase(it, true) }&#10;&#10;        return l1 + lastTest&#10;    }&#10;&#10;    override fun check(reply: String, clue: OutputClue): CheckResult {&#10;        // compare the clue output and reply with our custom comparer.&#10;//        println(&quot;Input: ${clue.input}&quot;)&#10;        val checkResult = WordComparer(&#10;                clue.output,&#10;                reply,&#10;                moreIgnoredSymbolsRegex = &quot;&quot;&quot;\.&quot;&quot;&quot;&#10;        ).compare()&#10;&#10;        if (clue.isPrivate)&#10;            return checkResult.ciphered()&#10;        return checkResult&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/converter/Main.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/converter/Main.kt" />
+                                <option name="text" value="package converter&#10;&#10;fun main() {&#10;    println(&quot;Hello, World!&quot;)&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1562027854000" />
+                    </EduTask>
+                  </list>
+                </option>
+              </FrameworkLesson>
+            </list>
+          </option>
+        </HyperskillCourse>
+      </option>
+    </StudyTaskManager>
+  </component>
+</project>
